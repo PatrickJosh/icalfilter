@@ -19,4 +19,3 @@ If you enter all the needed information and run the script, you can access the n
 The script uses: 
 
 - [icalendar](https://github.com/collective/icalendar)
-- 
