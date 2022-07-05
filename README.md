@@ -1,3 +1,6 @@
+# This repository has been migrated to codeberg.org
+See [here](https://codeberg.org/PatrickJosh/icalfilter).
+
 # icalfilter
 
 This little script can be used to filter events in an ical file by their summary.
